@@ -1,3 +1,6 @@
 catboost_info/
 data/*.parquet
 data/*processed.csv
+mlruns
+plots/*
+test.ipynb
