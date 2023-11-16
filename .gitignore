@@ -3,3 +3,4 @@ model/data/*.parquet
 model/data/*processed.csv
 mlruns
 test.ipynb
+repo.tree
