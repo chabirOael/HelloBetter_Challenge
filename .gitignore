@@ -2,5 +2,4 @@ catboost_info/
 model/data/*.parquet
 model/data/*processed.csv
 mlruns
-model/plots/*
 test.ipynb
